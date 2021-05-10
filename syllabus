@@ -1,0 +1,71 @@
+Version Control Management using GIT
+ ■ Git overview
+ ■ Git terminology (Remote Repo, Pull, Local Repo, Working-area, Staging-area, Commit, Push, Merge, Branch, Stash, Cherry-pick)
+ ■ Git working flow
+ ■ Git environment set up
+ ■ Git clone operation
+ ■ Git pull
+ ■ Git commit, push, review operation
+ ■ Git Stash and Cherry-pick
+ ■ Git branching
+ ■ Git errors and merge conflicts handling
+
+Cloud (AWS)
+■ Cloud overview
+■ What Is Amazon EC2?
+■ Regions and Availability Zones
+■ Services available on Cloud platform
+■ EC2 Instances 
+■ Instance types (On demand Instances, Spot Instances, Reserved Instances)
+■ Root Device Volume
+■ Amazon Machine Images (AMI)
+■ Monitoring
+■ Network and Security
+■ Security Groups
+■ Controlling Access (IAM)
+■ Instance IP Addressing
+■ Elastic IP Addresses
+■ Stop, start, restart, terminate Your Instance
+■ Overview of essential EC2 services (ELB, S3, Auto-scaling, Database)
+
+IaC (Terraform)
+■ Infrastructure As Code - Terraform?
+■ Installation Terraform - Linux or Windows
+■ Cloud account set up (AWS)
+■ Terraform IDE (Integrated Development Environment) set up
+■ Sample AWS instance creation code
+■ Terraform Life Cycle (Write, Plan, Create, Reproduce, Destroy)
+■ Terraform Terminology (Provider, Resource, Provisioner, Module, Backend, Variable and its Data types)
+■ Terraform Validate utility
+■ Visualize Terraform Plan using Graph
+■ Understanding Desired and Current State
+■ Modify the deployed infrastructure
+■ Tera down the deployed infrastructure
+
+Continuous Integration with Jenkins
+ ■ Jenkins overview
+ ■ Installation and configuration of Jenkins
+ ■ Project/Job creation of different types
+ ■ Jenkins pipeline
+ ■ Integration of Jenkins with other sub-system like GIT, MVN, Nexus, Docker
+
+Configuration Management using Puppet
+ ■ Puppet overview
+ ■ Puppet architecture
+ ■ Puppet working flow
+ ■ Puppet components
+ ■ Puppet DSL (resources, variables, if/else condition, case, loop)
+ ■ Manage resource of different types
+ ■ Working on modules
+ ■ End-to-end configuration of system/application
+ 
+Containerization with Docker
+ ■ Containerization - docker?
+ ■ Docker containers and images
+ ■ Docker file and its directives
+ ■ Docker volumes/storage drivers
+ ■ Docker networking
+ ■ Docker registry
+ ■ Docker Swarm 
+ ■ Docker compose
+ ■ Docker useful commands
